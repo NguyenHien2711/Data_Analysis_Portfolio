@@ -32,7 +32,7 @@ The course official page <br>
 **Description:** Check the repository having sub-projects and assignment -> [Go to repository...](https://github.com/NguyenHien2711/Python_Fundamental) <br>
 **Status:** Completed in Octobor 2022 <p>
 **Course Name: Codegym professional Data Analysis**  <br>
-**Description:** The boost-camp course from Codegym Vietnam which provide fundamental knowledge in using common Python Library in the area of manipulating data, extracting data, web scraping, visualizing data, exploratory data analysis, data preprocessing, statistics. Besides, the course also take me through using SQL and Database for Data Analysis by common statements like DDL, DML, Join, Groupby,... <br> 
+**Description:** The boost-camp course from Codegym Vietnam which provide fundamental knowledge in using common Python Library including Pandas, Numpy, Matplotlib, Seaborn, Sklearn, Scipy in the area of manipulating data, extracting data, web scraping, visualizing data, exploratory data analysis, data preprocessing, statistics. Besides, the course also take me through using SQL and Database for Data Analysis by common statements like DDL, DML, Join, Groupby,... <br> 
 The course official page <br>
 **Repository:** Check the repository having sub-projects and assignment -> [Go to repository...](https://github.com/NguyenHien2711/Data_Analysis_Python) <br>
 **Status:** Completed in Octobor 2022 <p>
@@ -41,12 +41,18 @@ The course official page <br>
 **Main skills:** Excel, SQL, Database, Python (Pandas, Numpy, Matplotlib) <br>
 [The course official page](https://www.coursera.org/professional-certificates/ibm-data-analyst)  <br>
 **Repository:** <br>
-**Status:** 5/9 courses completed, 4/9 courses have been processing
+**Status:** 5/9 courses completed, 4/9 courses have been processing<p>
+**Project Name: Excel and Power BI**  <br>
+**Description:** The projects was built from scratchs during learning Excel, Power BI from various sources and courses include Coursera, Youtube <br>
+**Main skills:** Excel Pivot table, Power BI <br>
+**Repository:** Check the repository having sub-projects and assignment -> [Go to repository...](https://github.com/NguyenHien2711/Excel) <br>
+**Status:** Completed 
 
 ## Certificates
 
 ## Contacts
-Gmail: nguyenhien12t1@gmail.com   <br>
-Facebook: [Nguyễn Hiền](https://www.facebook.com/hien.nguyenthithuy.562)  <br>
-Mobile phone: (+84) 0337557244  <br>
+- Gmail: nguyenhien12t1@gmail.com   <br>
+- Linkedin: [Hien Nguyen](https://www.linkedin.com/in/hien-nguyen-a7b9a4201/) <br>
+- Facebook: [Nguyễn Hiền](https://www.facebook.com/hien.nguyenthithuy.562)  <br>
+- Mobile phone: (+84) 0337557244  <br>
 
