@@ -49,6 +49,7 @@ The course official page <br>
 **Status:** Completed 
 
 ## Certificates
+  - Python Fundament
 
 ## Contacts
 - Gmail: nguyenhien12t1@gmail.com   <br>
