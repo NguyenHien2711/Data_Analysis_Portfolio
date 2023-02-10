@@ -2,7 +2,7 @@
 ## About
 Hi, I'm Hien Nguyen! I have studied International Economic Relations at Ho Chi Minh University of Economics and Law and expected to graduate in 2023.  With my passion about working on data and data-driven decision making combined with technical skills using Python, SQL, Datavisualization, Statistics, I hope to land a related-data job in March 2023, become a professional Data Analysis, and continue my study and to gain experience to become a full-stack data scientist in the long run. 
 
-My CV in pdf
+My CV in [pdf](https://drive.google.com/drive/u/1/folders/1J45fysv5TpNe8Sv3NRrISDZm9CyP5hI3)
 
 This repository aims to showcase my skill, knowledge and keep track of my progress in Data Analytics and Data Science through self learning. 
 ## Table of contents
