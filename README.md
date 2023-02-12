@@ -15,16 +15,10 @@ This repository aims to showcase my skill, knowledge and keep track of my progre
 Certificates
 Contacts
 ## Portfolio Projects
-In this section I will walk through some data analysis projects which are mainly related to data manipulation, data wrangling, data cleaning, visualization, EDA, Statistics test and predictive analysis.  
-Project A: 
-Code: 
-Description
-Project A: 
-Code: 
-Description
-Project A: 
-Code: 
-Description
+In this section I will walk through some data analysis projects which are mainly related to data manipulation, data wrangling, data cleaning, visualization, EDA, Statistics test and predictive analysis.  <p>
+**Project:** Identify the factor influence car price<br>
+**Description:** This project aims to build a linear regression model to identify and evaluate the primary features which have substantial impact on Car Price through Python Pandas, Numpy, Seaborn, Matplotlib, Scipy, Sklearn. <br>
+**Repository:** Check the repository having sub-projects and assignment -> [Go to repository...](https://github.com/NguyenHien2711/Data-Analysis-project) <br>
 ## Study Projects 
 **Course Name: Codegym Python Fundamental**  <br>
 **Description:** The boost-camp course from Codegym Vietnam which walked me through knowledge in Programming, algorithms and learning Python through hand-on exercises and projects. <br> 
