@@ -14,11 +14,14 @@ This repository aims to showcase my skill, knowledge and keep track of my progre
   - IBM Data Analyst Professional Certificate
 Certificates
 Contacts
-## Portfolio Projects
-In this section I will walk through some data analysis projects which are mainly related to data manipulation, data wrangling, data cleaning, visualization, EDA, Statistics test and predictive analysis.  <p>
-**Project:** Identify the factor influence car price<br>
-**Description:** This project aims to build a linear regression model to identify and evaluate the primary features which have substantial impact on Car Price through Python Pandas, Numpy, Seaborn, Matplotlib, Scipy, Sklearn. <br>
-**Repository:** Check the repository having sub-projects and assignment -> [Go to repository...](https://github.com/NguyenHien2711/Data-Analysis-project) <br>
+## Personal Projects
+In this section I will walk through some personal data analysis projects which are mainly related to data manipulation, data wrangling, data cleaning, visualization, EDA, Statistics test and predictive analysis.  <p>
+**Project 1:** [Identify the factor influence car price](https://github.com/NguyenHien2711/Data-Analysis-project)<br>
+  **Project idea:** This project aims to build a linear regression model to identify and evaluate the primary features which have substantial impact on Car Price <br>
+  **Tools**: Python Pandas, Numpy, Seaborn, Matplotlib, Scipy, Sklearn. <p>
+**Project 2:** [SQL Time Series Analysis](https://github.com/NguyenHien2711/SQL-project)<br>
+  **Project idea:** SQL Data cleaning and Exploration Data Analysis including Trending the data, Rolling Time Window, Comparison, Ranking the data, completely using SQL <br>
+  **Tools**: Aggregate functions, Case, Replace, Concat, Window functions, CTEs, Isnull, Lag <br>
 ## Study Projects 
 **Course Name: Codegym Python Fundamental**  <br>
 **Description:** The boost-camp course from Codegym Vietnam which walked me through knowledge in Programming, algorithms and learning Python through hand-on exercises and projects. <br> 
