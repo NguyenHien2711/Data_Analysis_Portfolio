@@ -21,7 +21,7 @@ In this section I will walk through some personal data analysis projects which a
   **Tools**: Python Pandas, Numpy, Seaborn, Matplotlib, Scipy, Sklearn. <p>
 **Project 2:** [SQL Time Series Analysis](https://github.com/NguyenHien2711/SQL-project)<br>
   **Project idea:** SQL Data cleaning and Exploration Data Analysis including Trending the data, Rolling Time Window, Comparison, Ranking the data, completely using SQL <br>
-  **Tools**: Aggregate functions, Case, Replace, Concat, Window functions, CTEs, Isnull, Lag <br>
+  **Tools**: Sub-query, View, Aggregate functions, Case, Replace, Concat, Window functions, CTEs, Isnull, Lag <br>
 ## Study Projects 
 **Course Name: Codegym Python Fundamental**  <br>
 **Description:** The boost-camp course from Codegym Vietnam which walked me through knowledge in Programming, algorithms and learning Python through hand-on exercises and projects. <br> 
