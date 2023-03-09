@@ -6,7 +6,7 @@ This repository aims to showcase my skill, knowledge and keep track of my progre
 ## Table of contents
 - About
 - Personal Projects:
-  + Identify the factor influence car price
+  + Identify the factors influence car price
   + SQL Time Series Analysis for Sale Performance 
 - Study Projects
   - Analyzing bank marketing campaign
@@ -16,7 +16,7 @@ Certificates
 Contacts
 ## Personal Projects
 In this section I will walk through some personal data analysis projects which are mainly related to data manipulation, data wrangling, data cleaning, visualization, EDA, Statistics test and predictive analysis.  <p>
-**Project 1:** [Identify the factor influence car price](https://github.com/NguyenHien2711/Data-Analysis-project)<br>
+**Project 1:** [Identify the factors influence car price](https://github.com/NguyenHien2711/Data-Analysis-project)<br>
   **Project idea:** This project aims to build a linear regression model to identify and evaluate the primary features which have substantial impact on Car Price <br>
   **Tools**: Python Pandas, Numpy, Seaborn, Matplotlib, Scipy, Sklearn. <p>
 **Project 2:** [SQL Time Series Analysis for Sale Performance](https://github.com/NguyenHien2711/SQL-project)<br>
