@@ -5,8 +5,11 @@ Hi, I'm Hien Nguyen! I have studied International Economic Relations at Ho Chi M
 This repository aims to showcase my skill, knowledge and keep track of my progress in Data Analytics through self learning. 
 ## Table of contents
 - About
-- Portfolio Projects
+- Personal Projects:
+  + Identify the factor influence car price
+  + SQL Time Series Analysis for Sale Performance 
 - Study Projects
+  - Analyzing bank marketing campaign
   - Codegym Python Fundamental
   - Codegym Data Analysis with Python
   - IBM Data Analyst Professional Certificate
@@ -17,7 +20,7 @@ In this section I will walk through some personal data analysis projects which a
 **Project:** [Identify the factor influence car price](https://github.com/NguyenHien2711/Data-Analysis-project)<br>
   **Project idea:** This project aims to build a linear regression model to identify and evaluate the primary features which have substantial impact on Car Price <br>
   **Tools**: Python Pandas, Numpy, Seaborn, Matplotlib, Scipy, Sklearn. <p>
-**Project 2:** [SQL Time Series Analysis](https://github.com/NguyenHien2711/SQL-project)<br>
+**Project 2:** [SQL Time Series Analysis for Sale Performance](https://github.com/NguyenHien2711/SQL-project)<br>
   **Project idea:** SQL Data cleaning and Exploration Data Analysis including Trending the data, Rolling Time Window, Comparison, Ranking the data, completely using SQL <br>
   **Tools**: Sub-query, View, Aggregate functions, Case, Replace, Concat, Window functions, CTEs, Isnull, Lag <br>
 ## Study Projects 
