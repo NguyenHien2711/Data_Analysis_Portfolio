@@ -12,7 +12,6 @@ This repository aims to showcase my skill, knowledge and keep track of my progre
   - Analyzing bank marketing campaign
   - Codegym Python Fundamental
   - Codegym Data Analysis with Python
-  - IBM Data Analyst Professional Certificate
 Certificates
 Contacts
 ## Personal Projects
@@ -37,13 +36,7 @@ In this section I will walk through some personal data analysis projects which a
 [The course official page](https://online.codegym.vn/chuyen-vien-phan-tich-du-lieu/?gclid=Cj0KCQiAgaGgBhC8ARIsAAAyLfFSWaFtFYJvVFmYjZu84um3HttxnP5Vxvainx-IC1faP6xo70z9np0aAjtbEALw_wcB) <br>
 **Repository:** Check the repository having sub-projects and assignment -> [Go to repository...](https://github.com/NguyenHien2711/Data_Analysis_Python) <br>
 **Status:** Completed in Octobor 2022 <p>
-**4. Course Name: IBM Data Analyst Professional Certificate**  <br>
-**Description:** <br>
-**Main skills:** Excel, SQL, Database, Python (Pandas, Numpy, Matplotlib) <br>
-[The course official page](https://www.coursera.org/professional-certificates/ibm-data-analyst)  <br>
-**Repository:** <br>
-**Status:** 5/9 courses completed, 4/9 courses have been processing<p>
-**5. Project Name: Excel and Power BI**  <br>
+**4. Project Name: Excel and Power BI**  <br>
 **Description:** The projects was built from scratchs during learning Excel, Power BI from various sources and courses include Coursera, Youtube <br>
 **Main skills:** Excel Pivot table, Power BI <br>
 **Repository:** Check the repository having sub-projects and assignment -> [Go to repository...](https://github.com/NguyenHien2711/Excel) <br>
