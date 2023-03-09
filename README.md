@@ -1,6 +1,6 @@
 # Nguyen Thi Thuy Hien - Data Analysis Portfolio
 ## About
-Hi, I'm Hien Nguyen! I have studied International Economic Relations at Ho Chi Minh University of Economics and Law and expected to graduate in 2023.  With my passion about working on data and data-driven decision making combined with technical skills using Python, SQL, Datavisualization, Statistics, I hope to land a related-data job in March 2023, and continue my self-study and to gain experience to become a professional Data Analysis in the long run. 
+Hi, I'm Hien Nguyen! I have studied International Economic Relations at Ho Chi Minh University of Economics and Law and expected to graduate in 2023.  With my passion about working on data and data-driven decision making combined with technical skills using Python, SQL, Datavisualization, Statistics, I hope to land a related-data job in March 2023, and continue my self-study and to gain experience to become a professional Business Analysis in the long run. 
 
 My CV in [pdf](https://drive.google.com/drive/u/1/folders/1J45fysv5TpNe8Sv3NRrISDZm9CyP5hI3)
 
