@@ -51,8 +51,10 @@ In this section I will walk through some personal data analysis projects which a
 
 ## Certificates
   - [Python Fundamentals](https://drive.google.com/drive/u/1/folders/1eP0udRt0w4JVc-iCXqNG9HGcTaNtp411) <br>
+  - [Data Analyst Codegym](https://drive.google.com/drive/u/1/folders/1eP0udRt0w4JVc-iCXqNG9HGcTaNtp411) <br>
   - [IBM Data Analyst Professional Certificate](https://drive.google.com/drive/u/1/folders/1e3_NYyWGkJOxy-6c51fpEbn060LW7aFK) (5/9 certificates accomplished)<br>
-  - [All of additional certificates and documents](https://drive.google.com/drive/u/1/folders/1e3_NYyWGkJOxy-6c51fpEbn060LW7aFK)<br>
+  - [Microsoft Office Specialist: Microsoft Excel 2016](https://drive.google.com/drive/u/1/folders/1bQXJX1xwp9P9i1shTEG-bjwJ3S6h8Ys-) <br>
+  - [Google Fundamentals of Digital Marketing](https://drive.google.com/drive/u/1/folders/10oMM0SeuEN4n3UEAwYIq6JZCO7AAbrcW) <br>
 ## Contacts
 - Gmail: nguyenhien12t1@gmail.com   <br>
 - Linkedin: [Hien Nguyen](https://www.linkedin.com/in/hien-nguyen-a7b9a4201/) <br>
